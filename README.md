@@ -1,3 +1,6 @@
+  ![Efrei](https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo-Efrei-Paris-2017.jpg)
+
+
 
 # Tarsapp ChatBot
 
@@ -10,8 +13,10 @@ How to integrate your ChatBot into an HTML5/CSS3 file
 - Run it in your browser
   
   
-  ![Efrei](https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo-Efrei-Paris-2017.jpg)
-:skull: **Tars is free for only 14 days**
+
+  
+  
+ :skull: **Tars is free for only 14 days**
 
 
 
