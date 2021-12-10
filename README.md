@@ -13,7 +13,7 @@ How to integrate your ChatBot into an HTML5/CSS3 file
 - Run it in your browser
   
   
- ![Efrei](https://zupimages.net/viewer.php?id=21/49/mclp.png)
+ ![](https://zupimages.net/up/21/49/mclp.png)
   
   
  :skull: **Tars is free for only 14 days**
