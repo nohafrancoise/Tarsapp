@@ -1,0 +1,10 @@
+body{
+    background-image: url(depositphotos_69779337-stock-illustration-abstract-bright-blue-geometric-background.jpg);
+    background-size: cover;
+    box-shadow: 0 20px 80px rgba(0,0,0,.6);
+    border-radius: 5px;
+    overflow: hidden;
+    border: none;
+    background-repeat: no-repeat;
+  }
+  
